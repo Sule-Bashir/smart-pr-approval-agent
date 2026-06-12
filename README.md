@@ -21,7 +21,7 @@ AI agent that automatically approves low-value requests and escalates high-value
 3. Start job with JSON input
 
 ### Demo Video
-[Link to YouTube video]
+https://youtu.be/mAkarrzvpl0?si=pHypqSiVjIUol49g
 ### Author
 Sule Bashir
 ### License
